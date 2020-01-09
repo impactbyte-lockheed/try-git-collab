@@ -2,4 +2,5 @@
 
 Membuat staging
 
-# jesky
+# Jesky
+**INI ADALAH TES PUSH KE BRANCH SENDIRI**
