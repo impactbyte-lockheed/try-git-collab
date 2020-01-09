@@ -12,7 +12,7 @@ With _more_ **text**.
 ![Image Name](https://linuxize.com/post/how-to-install-git-on-ubuntu-18-04/featured.jpg)
 
 
-![Image Name](assets/images/featured.jpg)
+![Image Name](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0oQro2okocesPf5nfuroFW9C1KvRk8S-se2N518oanfg7N0qh)
 
 
 - Item A
