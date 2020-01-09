@@ -1,3 +1,5 @@
 # GIT COLLAB
 
-Membuat staging
+# punya sarah
+
+# tambah punya thoriq
