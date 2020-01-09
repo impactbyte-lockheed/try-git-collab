@@ -1,6 +1,6 @@
 # GIT COLLAB
 
-Membuat staging
+## Aditya
 
 # Thoriq
 
