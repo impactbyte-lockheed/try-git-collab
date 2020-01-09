@@ -1,1 +1,3 @@
 # GIT COLLAB
+
+Membuat staging
